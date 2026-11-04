@@ -1,5 +1,5 @@
 {
-  "name": "jesusgraterol-dev",
+  "name": "website",
   "version": "2.0.1",
   "description": "Jesus Graterol is a seasoned Software Developer building scalable systems, AI-powered products, and agentic workflows.",
   "author": "Jesus Graterol",
@@ -9,10 +9,10 @@
   "homepage": "https://jesusgraterol.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jesusgraterol/jesusgraterol.dev.git"
+    "url": "git+https://github.com/jesusgraterol/website.git"
   },
   "bugs": {
-    "url": "https://github.com/jesusgraterol/jesusgraterol.dev/issues"
+    "url": "https://github.com/jesusgraterol/website/issues"
   },
   "engines": {
     "node": "^24.15.0",
