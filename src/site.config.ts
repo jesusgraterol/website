@@ -34,7 +34,7 @@ export const SITE_CONFIG = {
     locale: 'en_US',
     width: 1200,
   },
-  repositoryUrl: 'https://github.com/jesusgraterol/jesusgraterol.dev',
+  repositoryUrl: 'https://github.com/jesusgraterol/website',
   // the key the visitor's theme preference is stored under, unchanged so saved themes carry over
   storageKeys: {
     theme: 'jesusgraterol-theme',
