@@ -71,6 +71,8 @@ The custom domain is declared in [`public/CNAME`](./public/CNAME), and the repos
 
 ## Project blueprint
 
+[Delivery](docs/delivery.md) defines the ordered stops, operators, verification and cleanup for a task.
+
 - `src/data/portfolio/` owns validated portfolio content; `src/components/` and `src/layouts/` render the site using `jg-personal-astro-ui`.
 - `src/utilities/` builds the machine-readable index and structured data. `scripts/verify-build.ts` validates deployable output.
 - [Testing](./docs/testing.md) defines suite membership, commands, and focused verification.
