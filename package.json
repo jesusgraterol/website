@@ -52,7 +52,7 @@
     "@tailwindcss/vite": "4.3.3",
     "@types/node": "24.12.0",
     "astro": "7.4.0",
-    "eslint": "10.12.0",
+    "eslint": "10.15.0",
     "eslint-config-prettier": "10.1.8",
     "globals": "17.13.0",
     "jg-personal-astro-ui": "0.5.0",
@@ -63,7 +63,7 @@
     "prettier-plugin-tailwindcss": "0.8.1",
     "tailwindcss": "4.3.3",
     "typescript": "6.0.3",
-    "typescript-eslint": "8.71.1",
+    "typescript-eslint": "8.73.0",
     "vite": "8.3.4",
     "vitest": "5.0.3"
   }
